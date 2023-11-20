@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+  }
+h4 {
+  color: gold;
+  }  
+  img{
+    border-radius: 70px;
+    padding: 20px;
+    width: 1000px;
+    height: 500px;
+  }
